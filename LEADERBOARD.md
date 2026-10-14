@@ -1,5 +1,17 @@
 # Leaderboard
 
-Updated: 2026-10-14 06:59 (JST)
+Updated: 2026-10-14 09:57 (JST)
 
-No members yet. Join the guild!
+## Adventurers
+
+| Rank | Adventurer | Team | quest-00 | Reading | Writing | OSS | Total |
+|---:|---|---|---|---:|---:|---:|---:|
+| 1 | kwaka1208 | kwaka1208 | · | 0 | 0 | 0 | **0** |
+
+## Teams
+
+Average points per member.
+
+| Rank | Team | Members | Average | Game |
+|---:|---|---:|---:|---|
+| 1 | kwaka1208 | 1 | 0 |  |
