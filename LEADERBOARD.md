@@ -1,6 +1,6 @@
 # Leaderboard
 
-Updated: 2026-10-14 15:58 (JST)
+Updated: 2026-10-25 18:46 (JST)
 
 ## Adventurers
 
@@ -24,7 +24,7 @@ Average points per member.
 | 3 | sasasa-357 | 1 | 33 |  |
 | 4 | 04 | 1 | 30 |  |
 | 5 | osaka-hightech | 1 | 30 |  |
-| 6 | kwaka1208 | 1 | 0 |  |
+| 6 | kwaka1208 | 1 | 0 | [repository](https://github.com/kwaka1208/test-game) |
 
 ## First to clear
 
