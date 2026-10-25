@@ -1,17 +1,17 @@
 # Leaderboard
 
-Updated: 2026-10-25 18:46 (JST)
+Updated: 2026-10-25 20:23 (JST)
 
 ## Adventurers
 
-| Rank | Adventurer | Team | quest-00 | Reading | Writing | OSS | Total |
-|---:|---|---|---|---:|---:|---:|---:|
-| 1 | yone | team-yone | ⭐ | 40 | 0 | 0 | **40** |
-| 2 | ultron | ultron | ⭐ | 35 | 0 | 0 | **35** |
-| 3 | sasasa-357 | sasasa-357 | ⭐ | 33 | 0 | 0 | **33** |
-| 4 | 04 | 04 | ⭐ | 30 | 0 | 0 | **30** |
-| 4 | katayama-subaru | osaka-hightech | ⭐ | 30 | 0 | 0 | **30** |
-| 6 | kwaka1208 | kwaka1208 | · | 0 | 0 | 0 | **0** |
+| Rank | Adventurer | Team | quest-00 | quest-01 | quest-02 | Reading | Writing | OSS | Total |
+|---:|---|---|---|---|---|---:|---:|---:|---:|
+| 1 | yone | team-yone | ⭐ | · | · | 40 | 0 | 0 | **40** |
+| 2 | ultron | ultron | ⭐ | · | · | 35 | 0 | 0 | **35** |
+| 3 | sasasa-357 | sasasa-357 | ⭐ | · | · | 33 | 0 | 0 | **33** |
+| 4 | 04 | 04 | ⭐ | · | · | 30 | 0 | 0 | **30** |
+| 4 | katayama-subaru | osaka-hightech | ⭐ | · | · | 30 | 0 | 0 | **30** |
+| 6 | kwaka1208 | kwaka1208 | · | · | · | 0 | 0 | 0 | **0** |
 
 ## Teams
 
@@ -31,3 +31,5 @@ Average points per member.
 | Quest | 🥇 | 🥈 | 🥉 |
 |---|---|---|---|
 | quest-00 | yone | ultron | sasasa-357 |
+| quest-01 |  |  |  |
+| quest-02 |  |  |  |
