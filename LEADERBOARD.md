@@ -1,6 +1,6 @@
 # Leaderboard
 
-Updated: 2026-10-26 09:30 (JST)
+Updated: 2026-10-26 09:41 (JST)
 
 ## Adventurers
 
@@ -19,7 +19,7 @@ Average points per member.
 
 | Rank | Team | Members | Average | Game |
 |---:|---|---:|---:|---|
-| 1 | team-a | 2 | 37.5 |  |
+| 1 | team-a | 2 | 37.5 | [repository](https://github.com/Shine-hn/guild-game-yone-shine) |
 | 2 | team-b | 2 | 31.5 |  |
 | 3 | osaka-hightech | 1 | 30 |  |
 | 4 | team-c | 1 | 0 |  |
