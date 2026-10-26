@@ -1,12 +1,12 @@
 # Leaderboard
 
-Updated: 2026-10-25 21:01 (JST)
+Updated: 2026-10-26 09:29 (JST)
 
 ## Adventurers
 
 | Rank | Adventurer | Team | quest-00 | quest-01 | quest-02 | Reading | Writing | OSS | Total |
 |---:|---|---|---|---|---|---:|---:|---:|---:|
-| 1 | yone | team-yone | ⭐ | · | · | 40 | 0 | 0 | **40** |
+| 1 | yone | team-a | ⭐ | · | · | 40 | 0 | 0 | **40** |
 | 2 | ultron | ultron | ⭐ | · | · | 35 | 0 | 0 | **35** |
 | 3 | sasasa-357 | sasasa-357 | ⭐ | · | · | 33 | 0 | 0 | **33** |
 | 4 | 04 | 04 | ⭐ | · | · | 30 | 0 | 0 | **30** |
@@ -19,7 +19,7 @@ Average points per member.
 
 | Rank | Team | Members | Average | Game |
 |---:|---|---:|---:|---|
-| 1 | team-yone | 1 | 40 |  |
+| 1 | team-a | 1 | 40 |  |
 | 2 | ultron | 1 | 35 |  |
 | 3 | sasasa-357 | 1 | 33 |  |
 | 4 | 04 | 1 | 30 |  |
