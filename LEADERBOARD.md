@@ -1,15 +1,15 @@
 # Leaderboard
 
-Updated: 2026-10-26 09:29 (JST)
+Updated: 2026-10-26 09:30 (JST)
 
 ## Adventurers
 
 | Rank | Adventurer | Team | quest-00 | quest-01 | quest-02 | Reading | Writing | OSS | Total |
 |---:|---|---|---|---|---|---:|---:|---:|---:|
 | 1 | yone | team-a | ⭐ | · | · | 40 | 0 | 0 | **40** |
-| 2 | ultron | ultron | ⭐ | · | · | 35 | 0 | 0 | **35** |
+| 2 | ultron | team-a | ⭐ | · | · | 35 | 0 | 0 | **35** |
 | 3 | sasasa-357 | sasasa-357 | ⭐ | · | · | 33 | 0 | 0 | **33** |
-| 4 | 04 | 04 | ⭐ | · | · | 30 | 0 | 0 | **30** |
+| 4 | 04 | team-b | ⭐ | · | · | 30 | 0 | 0 | **30** |
 | 4 | katayama-subaru | osaka-hightech | ⭐ | · | · | 30 | 0 | 0 | **30** |
 | 6 | kwaka1208 | team-c | · | · | · | 0 | 0 | 0 | **0** |
 
@@ -19,12 +19,11 @@ Average points per member.
 
 | Rank | Team | Members | Average | Game |
 |---:|---|---:|---:|---|
-| 1 | team-a | 1 | 40 |  |
-| 2 | ultron | 1 | 35 |  |
-| 3 | sasasa-357 | 1 | 33 |  |
-| 4 | 04 | 1 | 30 |  |
-| 5 | osaka-hightech | 1 | 30 |  |
-| 6 | team-c | 1 | 0 |  |
+| 1 | team-a | 2 | 37.5 |  |
+| 2 | sasasa-357 | 1 | 33 |  |
+| 3 | osaka-hightech | 1 | 30 |  |
+| 4 | team-b | 1 | 30 |  |
+| 5 | team-c | 1 | 0 |  |
 
 ## First to clear
 
