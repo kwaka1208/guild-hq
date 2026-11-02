@@ -1,6 +1,6 @@
 # Leaderboard
 
-Updated: 2026-11-02 10:19 (JST)
+Updated: 2026-11-02 10:58 (JST)
 
 ## Adventurers
 
@@ -10,7 +10,7 @@ Updated: 2026-11-02 10:19 (JST)
 | 2 | ultron | team-a | ⭐ | ⭐ | ⭐ | · | · | · | · | 110 | 0 | 0 | **110** |
 | 3 | sasasa-357 | team-b | ⭐ | ⭐ | · | · | · | · | · | 66 | 0 | 0 | **66** |
 | 4 | 04 | team-b | ⭐ | · | · | · | · | · | · | 30 | 0 | 0 | **30** |
-| 4 | katayama | katayama | ⭐ | · | · | · | · | · | · | 30 | 0 | 0 | **30** |
+| 4 | katayama | team-b | ⭐ | · | · | · | · | · | · | 30 | 0 | 0 | **30** |
 | 6 | kwaka1208 | team-c | · | · | · | · | · | · | · | 0 | 0 | 0 | **0** |
 
 ## Teams
@@ -20,9 +20,8 @@ Average points per member.
 | Rank | Team | Members | Average | Game |
 |---:|---|---:|---:|---|
 | 1 | team-a | 2 | 112.5 | [repository](https://github.com/Shine-hn/guild-game-yone-shine) |
-| 2 | team-b | 2 | 48 | [repository](https://github.com/core315185/guild-game-template) |
-| 3 | katayama | 1 | 30 |  |
-| 4 | team-c | 1 | 0 |  |
+| 2 | team-b | 3 | 42 | [repository](https://github.com/core315185/guild-game-template) |
+| 3 | team-c | 1 | 0 |  |
 
 ## First to clear
 
